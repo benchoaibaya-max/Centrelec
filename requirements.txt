@@ -1,0 +1,7 @@
+Flask==3.0.0
+Flask-SQLAlchemy==3.1.1
+SQLAlchemy==2.0.29
+pandas==2.2.2
+openpyxl==3.1.2
+gunicorn==21.2.0
+psycopg2-binary==2.9.9  # only used if you choose Postgres
